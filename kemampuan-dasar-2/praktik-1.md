@@ -2,4 +2,4 @@
 ```
 mkdir nameFolderProject 
 ```
-![picture](E:\Pictures\praxis\touchfileREADMI.jpg)
+![picture](praxis/touchfileREADMI.jpg)
