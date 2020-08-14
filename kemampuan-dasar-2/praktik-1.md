@@ -2,4 +2,4 @@
 ```
 mkdir nameFolderProject 
 ```
-![picture](https://github.com/afdhalluthfi09/images/blob/master/touchfileREADMI.jpg)
+![alt text](https://github.com/afdhalluthfi09/images/blob/master/touchfileREADMI.jpg)
