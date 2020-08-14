@@ -1,4 +1,5 @@
-# tag one
+# create  folder your project
 ```
-coba pertama
+mkdir nameFolderProject 
 ```
+[picture](E:\Pictures\praxis\touchfileREADMI.jpg)
