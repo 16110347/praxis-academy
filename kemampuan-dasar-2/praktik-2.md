@@ -31,3 +31,9 @@ three are generall two ways of setting up github for team collaboration:
  1. Fork & Pull Mode :
 cara pertama harus bergabung dengan repository luar biasnya untuk berkontribusi,setelah nemu repositroy yang ingin bergabung untuk berkonstribusi lalu tekan fork, fork berguna untuk menyalin repository orang, dan mendapatkan update dari setiap ada perubahan.
 ![alt text](https://github.com/afdhalluthfi09/image/blob/master/stepPR1.jpg?raw=true)
+
+setelah melakukan fork akan terlihat seperti tampilan dibawah
+![alt text](https://github.com/afdhalluthfi09/image/blob/master/viewstepPR1.jpg?raw=true)
+
+lalu melakukan  clone repository yang kita fork ke directory lokal, sebelumnya kita mempersiapkan  folder untuk menempatkan repository kita
+![clone text](https://github.com/afdhalluthfi09/image/blob/master/stepPR2.jpg?raw=true)
