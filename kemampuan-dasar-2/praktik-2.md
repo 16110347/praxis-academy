@@ -53,7 +53,31 @@ check branch
 setelah itu melakukan push ke github langkahnya seperti dibahaw ini 
 ```
 git add namafile.extensi
+```
 
 ![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/viewstepPRadd.jpg?raw=true)
 
+lalu  melakukan commit terlebih dahulu
 ```
+git commit -m "something"
+```
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/viewstepPRcomit.jpg?raw=true)
+
+setelah melakukna push ke github
+```
+git push -u origin master
+```
+setelah sampai disini kita akan melakukan pull request,sebelumnya akan terlihat keterangan bahwa kita telah melakukan commit,
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/comperStepPR.jpg?raw=true)
+
+
+dengan menekan tombol compare pull & request, maka kita akan di bawa ke halaman untuk submit dari yang kita commit.
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/comperStepPR1.jpg?raw=true)
+
+setelah itu akan terlihat keterangan berhasil
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/comperStepPR2.jpg?raw=true)
+
