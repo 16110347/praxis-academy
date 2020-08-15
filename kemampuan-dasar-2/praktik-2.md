@@ -37,3 +37,13 @@ setelah melakukan fork akan terlihat seperti tampilan dibawah
 
 lalu melakukan  clone repository yang kita fork ke directory lokal, sebelumnya kita mempersiapkan  folder untuk menempatkan repository kita
 ![clone text](https://github.com/afdhalluthfi09/image/blob/master/stepPR2.jpg?raw=true)
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/stepPR3.jpg?raw=true)
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/stepPR4.jpg?raw=true)
+
+setelah berada di directory kita, membuat file ekstensi md untuk mencoba pertama konstribusi dan agar tidak menggangu branch yang sudah ada kita juga lebih baik membuat branch baru agar testrukjuga nantinya dan rapi
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/stepPR5.jpg?raw=true)
+buat branch
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/stepPR6.jpg?raw=true)
+check branch
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/viewstepPR6.jpg?raw=true)
+
