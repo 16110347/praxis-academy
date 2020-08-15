@@ -14,3 +14,8 @@ three are generall two ways of setting up github for team collaboration:
 
 1. membuat oragnisasi colorPicker12
 ![alt text](https://github.com/afdhalluthfi09/image/blob/master/organisasi&team1.jpg?raw=true)
+
+    Memberikan level akses masing-masing team :
+1. <block>Pull Only<block> : Fetch and Marge with another repository or local copy. Read only access
+2. <block>Pull and Push <block>: along with Update of remote repo. Read + Write access.
+3. <block>Push,Pull & Administrative<block> : along with rights to billing info crating teams as well as canceling organization accounts. Read + Write + Admin access
