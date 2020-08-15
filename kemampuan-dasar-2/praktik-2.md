@@ -30,6 +30,7 @@ three are generall two ways of setting up github for team collaboration:
 
  1. Fork & Pull Mode :
 cara pertama harus bergabung dengan repository luar biasnya untuk berkontribusi,setelah nemu repositroy yang ingin bergabung untuk berkonstribusi lalu tekan fork, fork berguna untuk menyalin repository orang, dan mendapatkan update dari setiap ada perubahan.
+
 ![alt text](https://github.com/afdhalluthfi09/image/blob/master/stepPR1.jpg?raw=true)
 
 setelah melakukan fork akan terlihat seperti tampilan dibawah
@@ -37,7 +38,9 @@ setelah melakukan fork akan terlihat seperti tampilan dibawah
 
 lalu melakukan  clone repository yang kita fork ke directory lokal, sebelumnya kita mempersiapkan  folder untuk menempatkan repository kita
 ![clone text](https://github.com/afdhalluthfi09/image/blob/master/stepPR2.jpg?raw=true)
+
 ![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/stepPR3.jpg?raw=true)
+
 ![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/stepPR4.jpg?raw=true)
 
 setelah berada di directory kita, membuat file ekstensi md untuk mencoba pertama konstribusi dan agar tidak menggangu branch yang sudah ada kita juga lebih baik membuat branch baru agar testrukjuga nantinya dan rapi
@@ -47,3 +50,10 @@ buat branch
 check branch
 ![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/viewstepPR6.jpg?raw=true)
 
+setelah itu melakukan push ke github langkahnya seperti dibahaw ini 
+```
+git add namafile.extensi
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/viewstepPRadd.jpg?raw=true)
+
+```
