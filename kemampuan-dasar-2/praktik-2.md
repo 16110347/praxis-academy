@@ -19,3 +19,7 @@ three are generall two ways of setting up github for team collaboration:
 1. <block>Pull Only<block> : Fetch and Marge with another repository or local copy. Read only access
 2. <block>Pull and Push <block>: along with Update of remote repo. Read + Write access.
 3. <block>Push,Pull & Administrative<block> : along with rights to billing info crating teams as well as canceling organization accounts. Read + Write + Admin access
+
+![alt text](https://github.com/afdhalluthfi/image/blob/master/level10.jpg?raw=true)
+![alt text](https://github.com/afdhalluthfi/image/blob/master/level2.jpg?raw=true)
+![alt text](https://github.com/afdhalluthfi/image/blob/master/level3.jpg?raw=true)
