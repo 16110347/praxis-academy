@@ -81,3 +81,53 @@ setelah itu akan terlihat keterangan berhasil
 
 ![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/comperStepPR2.jpg?raw=true)
 
+# Bug Tracking
+
+untuk menyelesaikan sebuah bug bisa di documentasikan di issues
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/issues.jpg?raw=true)
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/issues2.jpg?raw=true)
+
+# Analytic
+
+untuk melihat melihat perkembangankita dalam kontribusi 
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/analytic1.jpg?raw=true)
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/analytic2.jpg?raw=true)
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/analytic3.jpg?raw=true)
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/analytic4.jpg?raw=true)
+
+# Tool Project Management
+
+software yang bisa membantu kita untuk berkaloborasi dengan klient atau tim khususnya pada manajemet 
+build app dari awal sehingga terstruktur pekerjaan dengan cepat dan rapih dan bisa terigenterasi dengan github kita
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/trellopage.jpg?raw=true)
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/trelloHook.jpg?raw=true)
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/trelloPage.jpg?raw=true)
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/trelloHook.jpg?raw=true)
+
+# Continues Intergration
+
+Travis CI
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/travis.jpg?raw=true)
+
+# Code Review
+
+Kita bisa melihat kode yang kita bangun dnegan team dan bisa melihat konstribusi kita
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/codeReview.jpg?raw=true)
+
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/codeReview2.jpg?raw=true)
+
+# Tool Documentation
+kita bisa mendokumentasi semua apa yang kita buat dengan wiki pada halaman repository kita
+![clone buatfile](https://github.com/afdhalluthfi09/image/blob/master/documen.jpg?raw=true)
